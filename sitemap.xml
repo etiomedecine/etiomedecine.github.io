@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.google.com/schemas/sitemap/0.84"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+                      http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+ <url>
+  <loc>http://etiomedecine.fr/apropos.html</loc>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://etiomedecine.fr/contact.html</loc>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://etiomedecine.fr/etiomedecine_edition_electronique.html</loc>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://etiomedecine.fr/etiomedecine_edition_originale.html</loc>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://etiomedecine.fr/index.html</loc>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://etiomedecine.fr/livre/etiomedecine.pdf</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://etiomedecine.fr/img/etiomedecine.png</loc>
+  <priority>0.9000</priority>
+ </url>
+</urlset>
